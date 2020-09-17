@@ -12,14 +12,14 @@ be, reluctantly, given.
 > One-letter words remained undisguised. In any longer word each letter was
 replaced by the one succeeding it in the alphabet at such an ordinal point--
 second, third, fourth, and so forth--which corresponded to the number of
-letters in that word. Thus "love," a four-letter word, became "pszi" ("p" being
-the fourth letter after "l" in the alphabetic series, "s" the fourth after "o",
-et cetera), whilst, say, "lovely" (in which the longer stretch made it
-necessary, in two instances, to resume the alphabet after exhausting it) became
-"_ruBkrE_," where the letters overflowing into the new alphabetic series were
-capitalized: B, for instance, standing for "v" whose substitute had to be the
-sixth letter ("lovely" consists of six letters) coming after it: _wxyzAB_, and
-"y" going still deeper into that next series: _zABCDE_.
+letters in that word. Thus "love," a four-letter word, became "_pszi_" ("p"
+being the fourth letter after "l" in the alphabetic series, "s" the fourth
+after "o", et cetera), whilst, say, "lovely" (in which the longer stretch made
+it necessary, in two instances, to resume the alphabet after exhausting it)
+became "_ruBkrE_," where the letters overflowing into the new alphabetic series
+were capitalized: B, for instance, standing for "v" whose substitute had to be
+the sixth letter ("lovely" consists of six letters) coming after it: _wxyzAB_,
+and "y" going still deeper into that next series: _zABCDE_.
 
 > ...
 
@@ -34,7 +34,7 @@ line." I hold this to be pretty clear; and when, for the sake of misleading
 variety, the Rimbaud poem was used, the letter denoting the line would simply
 be capitalized.
 
-- Vladimir Nabokov, _Ada, or Ardor_, Part 1, Chapter 26, p160-161.
+Vladimir Nabokov, _Ada, or Ardor_, Part 1, Chapter 26, p160-161.
 
 ## Description
 
